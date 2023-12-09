@@ -76,3 +76,18 @@ Welcome to the Parcel Management App! This application is designed to streamline
 
 - Comprehensive user details with the ability to promote users to Delivery Men or Admin.
 
+## Backend Features
+
+### 1. MongoDB and Express Integration
+- Utilize MongoDB as the backend database to store and manage product, order, and user information.
+- Employ Express.js to build a robust and efficient backend server, enhancing the overall performance of the application.
+
+### 2. API Endpoints
+- Define clear API endpoints for seamless communication between the frontend and backend.
+- Implement RESTful APIs to handle CRUD operations for products, orders, and user data.
+
+### 3. Security Measures
+- Implement secure authentication and authorization mechanisms to protect user data and ensure a safe online environment.
+
+### 4. Scalability
+- Design the backend architecture to be scalable, accommodating potential growth in users and data.
